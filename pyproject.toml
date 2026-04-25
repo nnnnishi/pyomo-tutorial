@@ -1,0 +1,8 @@
+[project]
+name = "pyomo-tutorial"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "highspy>=1.14.0",
+    "pyomo>=6.10.0",
+]
